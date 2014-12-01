@@ -49,3 +49,16 @@ List of css, js libs and frameworks
 [jQuery Knob: Nice, downward compatible, touchable, jQuery dial](http://anthonyterrien.com/knob/)
 
 [Velocity.js: Accelerated JavaScript animation](http://julian.com/research/velocity/)
+```javascript
+// Register a custom UI pack effect.
+$.Velocity.RegisterUI("callout.twirl", {
+    defaultDuration: 3000,
+    calls: [ 
+			[ { rotateZ: 1080 }, 0.50 ],
+			[ { scaleX: 0.5 }, 0.25, { easing: "spring" } ],
+			[ { scaleX: 1 }, 0.25, { easing: "spring" } ]
+    ]
+});
+
+$("div").velocity("callout.twirl");
+```
