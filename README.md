@@ -11,6 +11,9 @@ $('div').addClass('animated flip')
        	.one('webkitAnimationStart mozAnimationStart MSAnimationStart oanimationstart animationstart', function () {
         	console.log('Animation Started');
        	})
+       	.one('webkitAnimationIteration mozAnimationIteration MSAnimationIteration oanimationiteration animationiteration', function () {
+            console.log('Animation Step');
+        })
         .one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function () {
         	console.log('Animation Ends');
         });
