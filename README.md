@@ -12,6 +12,8 @@ List of css, js libs and frameworks
 
 [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
+[Page Transitions](https://github.com/codrops/PageTransitions)
+
 ## Javascript
 [Ionic Framework: The beautiful, open source front-end SDK for developing hybrid mobile apps with HTML5](http://ionicframework.com/)
 
@@ -31,3 +33,5 @@ List of css, js libs and frameworks
 [w2ui: jQuery plugins for front-end development of data driven web applications](http://w2ui.com/web/)
 
 [jQuery Knob: Nice, downward compatible, touchable, jQuery dial](http://anthonyterrien.com/knob/)
+
+[Velocity.js: Accelerated JavaScript animation](http://julian.com/research/velocity/)
