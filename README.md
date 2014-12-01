@@ -1,7 +1,7 @@
 css-js-helpers-libs
 ===================
 
-List of css and js libs and frameworks
+List of css, js libs and frameworks
 
 ## CSS
 [Movies In Color: Films and their corresponding color palettes](http://moviesincolor.com/)
@@ -23,6 +23,7 @@ List of css and js libs and frameworks
 
 [Hammer.js: Add touch gestures to your page](http://hammerjs.github.io/)
 
+[Retina.js: Retina graphics for your website](http://imulus.github.io/retinajs/)
 
 ## jQuery plugins
 [jQuery UI Touch Punch: Touch Event Support for jQuery UI](http://touchpunch.furf.com/)
