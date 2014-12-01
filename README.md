@@ -58,6 +58,8 @@ $('div').addClass('animated flip')
 
 * [PhotoSwipe: IMAGE GALLERY FOR MOBILE AND TOUCH DEVICES](http://photoswipe.com/)
 
+* [Chartist.js: SIMPLE RESPONSIVE CHARTS](http://gionkunz.github.io/chartist-js/)
+
 ## jQuery plugins
 * [jQuery UI Touch Punch: Touch Event Support for jQuery UI](http://touchpunch.furf.com/)
 
@@ -79,3 +81,4 @@ $.Velocity.RegisterUI('callout.twirl', {
 
 $('div').velocity('callout.twirl');
 ```
+* [jqPlot: A Versatile and Expandable jQuery Plotting Plugin](http://www.jqplot.com/)
