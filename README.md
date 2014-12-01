@@ -19,6 +19,8 @@ List of css, js libs and frameworks
 
 [Foundation: The most advanced responsive front-end framework in the world](http://foundation.zurb.com/)
 
+[Phaser.io: Game framework for making desktop and mobile browser HTML5 games](http://phaser.io/)
+
 [Popcorn.js: The HTML5 Media Framework](http://popcornjs.org/)
 
 [Parallax.js: reacts to the orientation of your smart device](http://matthew.wagerfield.com/parallax/)
