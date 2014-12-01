@@ -7,7 +7,7 @@ List of css, js libs and frameworks
 * [Animate.css: Just-add-water CSS animations](http://daneden.github.io/animate.css/)
 ```javascript
 // Animate.css if you need a callbacks
-$('div').addClass('animated ' + 'flip')
+$('div').addClass('animated flip')
        	.one('webkitAnimationStart mozAnimationStart MSAnimationStart oanimationstart animationstart', function () {
         	console.log('Animation Started');
        	})
