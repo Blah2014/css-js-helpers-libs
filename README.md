@@ -72,8 +72,8 @@ $.Velocity.RegisterUI('callout.twirl', {
     defaultDuration: 3000,
     calls: [ 
 			[ { rotateZ: 1080 }, 0.50 ],
-			[ { scaleX: 0.5 }, 0.25, { easing: "spring" } ],
-			[ { scaleX: 1 }, 0.25, { easing: "spring" } ]
+			[ { scaleX: 0.5 }, 0.25, { easing: 'spring' } ],
+			[ { scaleX: 1 }, 0.25, { easing: 'spring' } ]
     ]
 });
 
