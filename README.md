@@ -31,6 +31,10 @@ List of css, js libs and frameworks
 
 [Retina.js: Retina graphics for your website](http://imulus.github.io/retinajs/)
 
+[XDate: A Modern JavaScript Date Library](http://arshaw.com/xdate/)
+
+[Fullcalendar.io: A JavaScript event calendar. Customizable and open source](http://fullcalendar.io/)
+
 ## jQuery plugins
 [jQuery UI Touch Punch: Touch Event Support for jQuery UI](http://touchpunch.furf.com/)
 
