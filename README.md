@@ -5,6 +5,16 @@ List of css, js libs and frameworks
 
 ## CSS
 * [Animate.css: Just-add-water CSS animations](http://daneden.github.io/animate.css/)
+```javascript
+// Animate.css if you need a callbacks
+$('div').addClass('animated ' + 'flip')
+       	.one('webkitAnimationStart mozAnimationStart MSAnimationStart oanimationstart animationstart', function () {
+        	console.log('Animation Started');
+       	})
+        .one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function () {
+        	console.log('Animation Ends');
+        });
+```
 
 * [Movies In Color: Films and their corresponding color palettes](http://moviesincolor.com/)
 
@@ -55,7 +65,7 @@ List of css, js libs and frameworks
 * [Velocity.js: Accelerated JavaScript animation](http://julian.com/research/velocity/)
 ```javascript
 // Register Velocity.js a custom UI pack effect.
-$.Velocity.RegisterUI("callout.twirl", {
+$.Velocity.RegisterUI('callout.twirl', {
     defaultDuration: 3000,
     calls: [ 
 			[ { rotateZ: 1080 }, 0.50 ],
@@ -64,5 +74,5 @@ $.Velocity.RegisterUI("callout.twirl", {
     ]
 });
 
-$("div").velocity("callout.twirl");
+$('div').velocity('callout.twirl');
 ```
