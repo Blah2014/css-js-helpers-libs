@@ -6,6 +6,8 @@ List of css, js libs and frameworks
 ## Extras
 * [7 Habits of Highly Effective Media Queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/)
 
+* [Pure CSS Parallax Websites](http://keithclark.co.uk/articles/pure-css-parallax-websites/)
+
 ## CSS
 * [Animate.css: Just-add-water CSS animations](http://daneden.github.io/animate.css/)
 ```javascript
