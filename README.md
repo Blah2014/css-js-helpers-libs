@@ -28,3 +28,5 @@ List of css and js libs and frameworks
 [jQuery UI Touch Punch: Touch Event Support for jQuery UI](http://touchpunch.furf.com/)
 
 [w2ui: jQuery plugins for front-end development of data driven web applications](http://w2ui.com/web/)
+
+[jQuery Knob: Nice, downward compatible, touchable, jQuery dial](http://anthonyterrien.com/knob/)
