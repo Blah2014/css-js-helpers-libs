@@ -33,6 +33,10 @@ List of css, js libs and frameworks
 
 * [Retina.js: Retina graphics for your website](http://imulus.github.io/retinajs/)
 
+* [Moment.js: Parse, validate, manipulate, and display dates in JavaScript](http://momentjs.com/)
+
+* [Moment.js Timezone: Parse and display dates in any timezone](http://momentjs.com/timezone/)
+
 * [XDate: A Modern JavaScript Date Library](http://arshaw.com/xdate/)
 
 * [Fullcalendar.io: A JavaScript event calendar. Customizable and open source](http://fullcalendar.io/)
