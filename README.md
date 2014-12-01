@@ -4,6 +4,8 @@ css-js-helpers-libs
 List of css, js libs and frameworks
 
 ## CSS
+[Animate.css: Just-add-water CSS animations](http://daneden.github.io/animate.css/)
+
 [Movies In Color: Films and their corresponding color palettes](http://moviesincolor.com/)
 
 [Leshy SpriteSheet Tool: Online](http://www.leshylabs.com/apps/sstool/)
