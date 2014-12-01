@@ -64,7 +64,7 @@ $('div').addClass('animated flip')
 
 * [Velocity.js: Accelerated JavaScript animation](http://julian.com/research/velocity/)
 ```javascript
-// Register Velocity.js a custom UI pack effect.
+// Register Velocity.js a custom UI pack effect
 $.Velocity.RegisterUI('callout.twirl', {
     defaultDuration: 3000,
     calls: [ 
