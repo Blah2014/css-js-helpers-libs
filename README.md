@@ -8,6 +8,8 @@ List of css and js libs and frameworks
 
 [Leshy SpriteSheet Tool: Online](http://www.leshylabs.com/apps/sstool/)
 
+[Purecss.io: A set of small, responsive CSS modules that you can use in every web project](http://purecss.io/)
+
 ## Javascript
 [Popcorn.js: The HTML5 Media Framework](http://popcornjs.org/)
 
