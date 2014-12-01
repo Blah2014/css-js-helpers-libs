@@ -35,6 +35,10 @@ List of css, js libs and frameworks
 
 [Fullcalendar.io: A JavaScript event calendar. Customizable and open source](http://fullcalendar.io/)
 
+[Video.js: The open source HTML5 video player](http://www.videojs.com/)
+
+[PhotoSwipe: IMAGE GALLERY FOR MOBILE AND TOUCH DEVICES](http://photoswipe.com/)
+
 ## jQuery plugins
 [jQuery UI Touch Punch: Touch Event Support for jQuery UI](http://touchpunch.furf.com/)
 
