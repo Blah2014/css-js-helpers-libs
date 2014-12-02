@@ -41,6 +41,8 @@ $('div').addClass('animated flip')
 
 * [Ionic Creator: Create great Ionic apps with a flick of the wrist](https://creator.ionic.io/app/login)
 
+* [ngCordova: Set of AngularJS extensions on top of the Cordova API](http://ngcordova.com/)
+
 * [Foundation: The most advanced responsive front-end framework in the world](http://foundation.zurb.com/)
 
 * [Phaser.io: Game framework for making desktop and mobile browser HTML5 games](http://phaser.io/)
