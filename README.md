@@ -71,6 +71,8 @@ $('div').addClass('animated flip')
 
 * [Victor.js: A JavaScript 2D vector maths library for Node.js and the browser](http://victorjs.org/)
 
+* [Lo-Dash: A utility library delivering consistency, customization, performance, & extras](https://lodash.com/)
+
 ## jQuery plugins
 * [jQuery UI Touch Punch: Touch Event Support for jQuery UI](http://touchpunch.furf.com/)
 
