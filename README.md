@@ -4,6 +4,8 @@ css-js-helpers-libs
 List of css, js libs and frameworks
 
 ## Extras
+*[APE (Ajax Push Engine)](http://ape-project.org/)
+
 * [7 Habits of Highly Effective Media Queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/)
 
 * [Pure CSS Parallax Websites](http://keithclark.co.uk/articles/pure-css-parallax-websites/)
