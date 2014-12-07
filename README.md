@@ -10,6 +10,12 @@ List of css, js libs and frameworks
 
 * [Pure CSS Parallax Websites](http://keithclark.co.uk/articles/pure-css-parallax-websites/)
 
+#### PHP
+
+* [Goutte: a simple PHP Web Scraper](https://github.com/FriendsOfPHP/Goutte)
+
+* [Slim: PHP micro framework that helps you quickly write simple yet powerful web applications and APIs](http://www.slimframework.com/)
+
 ## CSS
 * [Animate.css: Just-add-water CSS animations](http://daneden.github.io/animate.css/)
 ```javascript
@@ -35,12 +41,6 @@ $('div').addClass('animated flip')
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
 * [Page Transitions](https://github.com/codrops/PageTransitions)
-
-#### PHP
-
-* [Goutte: a simple PHP Web Scraper](https://github.com/FriendsOfPHP/Goutte)
-
-* [Slim: PHP micro framework that helps you quickly write simple yet powerful web applications and APIs](http://www.slimframework.com/)
 
 ## Javascript
 * [Ionic Framework: The beautiful, open source front-end SDK for developing hybrid mobile apps with HTML5](http://ionicframework.com/)
