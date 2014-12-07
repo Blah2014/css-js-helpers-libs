@@ -12,7 +12,7 @@ List of css, js libs and frameworks
 
 ##### PHP
 
-* [Goutte: a simple PHP Web Scraper](https://github.com/FriendsOfPHP/Goutte)
+* [PHP Simple HTML DOM Parser](http://simplehtmldom.sourceforge.net/)
 
 * [Slim: PHP micro framework that helps you quickly write simple yet powerful web applications and APIs](http://www.slimframework.com/)
 
