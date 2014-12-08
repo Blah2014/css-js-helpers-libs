@@ -27,6 +27,9 @@ List of css, js libs and frameworks
 
 * [Slim: PHP micro framework that helps you quickly write simple yet powerful web applications and APIs](http://www.slimframework.com/)
 
+##### PhoneGap/Cordova
+* [PayPal SDK Cordova/Phonegap Plugin](https://github.com/paypal/PayPal-Cordova-Plugin)
+
 ## CSS
 * [Animate.css: Just-add-water CSS animations](http://daneden.github.io/animate.css/)
 ```javascript
