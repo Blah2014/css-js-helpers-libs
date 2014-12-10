@@ -29,6 +29,12 @@ List of css, js libs and frameworks
 
 * [PHP client for Yahoo Finance API](https://github.com/scheb/yahoo-finance-api)
 
+* [CodeIgniter is a powerful PHP framework with a very small footprint](http://www.codeigniter.com/)
+
+* [CodeIgniter: plugins](https://github.com/bcit-ci/CodeIgniter/wiki/_pages)
+
+* [CodeIgniter: Ion Auth Lightweight Auth System](https://github.com/bcit-ci/CodeIgniter/wiki/Ion-Auth---Lightweight-Auth-System)
+
 ##### PhoneGap/Cordova
 * [PayPal SDK Cordova/Phonegap Plugin](https://github.com/paypal/PayPal-Cordova-Plugin)
 
