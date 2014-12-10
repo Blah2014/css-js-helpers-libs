@@ -105,6 +105,8 @@ $('div').addClass('animated flip')
 
 * [WYSIWYG: TinyMCE](http://www.tinymce.com/)
 
+* [jSignature  Draw signature in the browser](http://willowsystems.github.io/jSignature/#/about/)
+
 ## jQuery plugins
 * [jQuery UI Touch Punch: Touch Event Support for jQuery UI](http://touchpunch.furf.com/)
 
