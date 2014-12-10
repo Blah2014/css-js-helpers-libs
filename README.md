@@ -38,6 +38,8 @@ List of css, js libs and frameworks
 ##### PhoneGap/Cordova
 * [PayPal SDK Cordova/Phonegap Plugin](https://github.com/paypal/PayPal-Cordova-Plugin)
 
+* [Pushwoosh Push Notifications plugin](https://github.com/Pushwoosh/pushwoosh-phonegap-3.0-plugin)
+
 ## CSS
 * [Animate.css: Just-add-water CSS animations](http://daneden.github.io/animate.css/)
 ```javascript
