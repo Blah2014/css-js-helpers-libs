@@ -33,7 +33,7 @@ List of css, js libs and frameworks
 
 * [CodeIgniter: plugins](https://github.com/bcit-ci/CodeIgniter/wiki/_pages)
 
-* [CodeIgniter: Ion Auth Lightweight Auth System](https://github.com/bcit-ci/CodeIgniter/wiki/Ion-Auth---Lightweight-Auth-System)
+* [CodeIgniter: Ion Auth Lightweight Auth System](https://github.com/benedmunds/CodeIgniter-Ion-Auth)
 
 ##### PhoneGap/Cordova
 * [PayPal SDK Cordova/Phonegap Plugin](https://github.com/paypal/PayPal-Cordova-Plugin)
