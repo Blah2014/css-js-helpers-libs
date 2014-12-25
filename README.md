@@ -44,7 +44,7 @@ List of css, js libs and frameworks
 
 * [Pushwoosh Push Notifications plugin](https://github.com/Pushwoosh/pushwoosh-phonegap-3.0-plugin)
 
-* [CCA: Cordova Chrome App](customerportal.twtelecom.com)
+* [CCA: Cordova Chrome App](https://developer.chrome.com/apps/chrome_apps_on_mobile)
 
 ## CSS
 * [Animate.css: Just-add-water CSS animations](http://daneden.github.io/animate.css/)
