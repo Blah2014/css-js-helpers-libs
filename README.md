@@ -12,6 +12,12 @@ List of css, js libs and frameworks
 
 * [7 Habits of Highly Effective Media Queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/)
 
+* [PLACEHOLD.IT: A quick and simple image placeholder service](http://placehold.it/)
+```java
+// PLACEHOLD.IT Example
+http://placehold.it/136x136/09f/fff.png&text=136x136
+```
+
 ##### CSS
 
 * IE css trick
