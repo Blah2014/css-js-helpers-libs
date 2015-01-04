@@ -78,6 +78,8 @@ $('div').addClass('animated flip')
 
 * [Page Transitions](https://github.com/codrops/PageTransitions)
 
+* [WEBFONT GENERATOR: fontsquirrel.com](http://www.fontsquirrel.com/tools/webfont-generator)
+
 ## Javascript
 * [Ionic Framework: The beautiful, open source front-end SDK for developing hybrid mobile apps with HTML5](http://ionicframework.com/)
 
