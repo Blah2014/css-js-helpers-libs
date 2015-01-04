@@ -18,6 +18,8 @@ List of css, js libs and frameworks
 http://placehold.it/136x136/09f/fff.png&text=136x136
 ```
 
+* [Online bitmap font generator](http://kvazars.com/littera/)
+
 ##### CSS
 
 * IE css trick
