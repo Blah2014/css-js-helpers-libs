@@ -89,6 +89,8 @@ $('div').addClass('animated flip')
 
 * [Ionic Creator: Create great Ionic apps with a flick of the wrist](https://creator.ionic.io/app/login)
 
+* [Ionic-Cli: The Ionic Framework command line utility](https://github.com/driftyco/ionic-cli)
+
 * [ngCordova: Set of AngularJS extensions on top of the Cordova API](http://ngcordova.com/)
 
 * [Foundation: The most advanced responsive front-end framework in the world](http://foundation.zurb.com/)
