@@ -104,6 +104,36 @@ $('div').addClass('animated flip')
 * [Parallax.js: reacts to the orientation of your smart device](http://matthew.wagerfield.com/parallax/)
 
 * [Hammer.js: Add touch gestures to your page](http://hammerjs.github.io/)
+```javascript
+var myElement = document.getElementById('myElement');
+
+// create a simple instance
+// by default, it only adds horizontal recognizers
+var mc = new Hammer.Manager(myElement);
+
+mc.add(new Hammer.Swipe({ event: 'swipe', pointers: 1 }));
+
+mc.add(new Hammer.Swipe({ event: 'twoswipe', pointers: 2 }));
+
+// listen to events...
+mc.on("swipe", function(ev) {
+    myElement.textContent = '1 finger swipe: ' + ev.pointers.length;
+    console.log(ev)
+    
+    setTimeout(function(){
+      myElement.textContent = '';
+    }, 3000);
+});
+
+mc.on("twoswipe", function(ev) {
+    myElement.textContent = '2 finger swipe: ' + ev.pointers.length;
+    console.log(ev)
+    
+    setTimeout(function(){
+      myElement.textContent = '';
+    }, 3000);
+});
+```
 
 * [Retina.js: Retina graphics for your website](http://imulus.github.io/retinajs/)
 
