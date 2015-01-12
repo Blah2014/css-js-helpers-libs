@@ -105,6 +105,7 @@ $('div').addClass('animated flip')
 
 * [Hammer.js: Add touch gestures to your page](http://hammerjs.github.io/)
 ```javascript
+// Create Hammer custom gestures events
 var myElement = document.getElementById('myElement');
 
 // create a simple instance
