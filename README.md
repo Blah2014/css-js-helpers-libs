@@ -99,6 +99,8 @@ $('div').addClass('animated flip')
 
 * [Phaser.io: State Transition Plugin](https://github.com/cristianbote/phaser-state-transition)
 
+* [Phaser.io - MIGHTYEDITOR: Web based open source HTML5 game editor](http://mightyfingers.com/)
+
 * [Popcorn.js: The HTML5 Media Framework](http://popcornjs.org/)
 
 * [Parallax.js: reacts to the orientation of your smart device](http://matthew.wagerfield.com/parallax/)
