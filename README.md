@@ -136,6 +136,42 @@ mc.on("twoswipe", function(ev) {
 });
 ```
 
+```javascript
+// Swipe to delete
+var mc = new Hammer.Manager(myElement);
+
+mc.add(new Hammer.Pan({ 
+  event: 'swipeRight', 
+  pointers: 1,
+  direction: Hammer.DIRECTION_RIGHT
+}));
+
+
+// listen to events...
+mc.on("swipeRight", function(ev) {
+  //console.log(ev);
+  
+  var elem = ev.target;
+  elem.style.left = ev.deltaX + 'px';
+  
+  // Mobile
+  elem.addEventListener('touchend', function(){
+    setTimeout(function(){
+      elem.style.left = '0px';
+    }, 0);
+    
+  });
+  
+  // PC
+  elem.addEventListener('mouseup', function(){
+    setTimeout(function(){
+      elem.style.left = '0px';
+    }, 0);
+    
+  });
+});
+```
+
 * [Retina.js: Retina graphics for your website](http://imulus.github.io/retinajs/)
 
 * [Moment.js: Parse, validate, manipulate, and display dates in JavaScript](http://momentjs.com/)
