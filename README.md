@@ -222,3 +222,5 @@ $('div').velocity('callout.twirl');
 * [jqPlot: A Versatile and Expandable jQuery Plotting Plugin](http://www.jqplot.com/)
 
 * [jQuery.stickysectionheaders: When scrolling down, always the current section heading "sticks" to the top](https://github.com/polarblau/stickySectionHeaders)
+
+* [SlickGrid is an advanced JavaScript grid/spreadsheet component](https://github.com/mleibman/SlickGrid)
