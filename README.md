@@ -91,8 +91,6 @@ $('div').addClass('animated flip')
 
 * [Ionic-Cli: The Ionic Framework command line utility](https://github.com/driftyco/ionic-cli)
 
-* [ngCordova: Set of AngularJS extensions on top of the Cordova API](http://ngcordova.com/)
-
 * [Foundation: The most advanced responsive front-end framework in the world](http://foundation.zurb.com/)
 
 * [Phaser.io: Game framework for making desktop and mobile browser HTML5 games](http://phaser.io/)
@@ -224,3 +222,8 @@ $('div').velocity('callout.twirl');
 * [jQuery.stickysectionheaders: When scrolling down, always the current section heading "sticks" to the top](https://github.com/polarblau/stickySectionHeaders)
 
 * [SlickGrid is an advanced JavaScript grid/spreadsheet component](https://github.com/mleibman/SlickGrid)
+
+## AngularJS
+* [Angular Modules](http://ngmodules.org/)
+
+* [ngCordova: Set of AngularJS extensions on top of the Cordova API](http://ngcordova.com/)
