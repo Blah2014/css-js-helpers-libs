@@ -227,3 +227,5 @@ $('div').velocity('callout.twirl');
 * [Angular Modules](http://ngmodules.org/)
 
 * [ngCordova: Set of AngularJS extensions on top of the Cordova API](http://ngcordova.com/)
+
+* [ui-calendar directive: A complete AngularJS directive for the Arshaw FullCalendar](https://github.com/angular-ui/ui-calendar)
