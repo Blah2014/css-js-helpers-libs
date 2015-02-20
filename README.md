@@ -190,6 +190,10 @@ mc.on("swipeRight", function(ev) {
 
 * [Chartist.js: SIMPLE RESPONSIVE CHARTS](http://gionkunz.github.io/chartist-js/)
 
+* [Flot: Attractive JavaScript plotting for jQuery](http://www.flotcharts.org/)
+
+* [Flot: Angular plugin (angular-flot: An Angular directive to wrap Flotcharts)](https://www.npmjs.com/package/angular-flot)
+
 * [Victor.js: A JavaScript 2D vector maths library for Node.js and the browser](http://victorjs.org/)
 
 * [Lo-Dash: A utility library delivering consistency, customization, performance, & extras](https://lodash.com/)
