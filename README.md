@@ -103,6 +103,8 @@ $('div').addClass('animated flip')
 
 * [Parallax.js: reacts to the orientation of your smart device](http://matthew.wagerfield.com/parallax/)
 
+* [Leaflet: An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps](http://leafletjs.com/)
+
 * [Hammer.js: Add touch gestures to your page](http://hammerjs.github.io/)
 ```javascript
 // Create Hammer custom gestures events
