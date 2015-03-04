@@ -229,6 +229,8 @@ $('div').velocity('callout.twirl');
 
 * [SlickGrid is an advanced JavaScript grid/spreadsheet component](https://github.com/mleibman/SlickGrid)
 
+* [JustGage is a handy JavaScript plugin for generating and animating nice & clean gauges](http://justgage.com/)
+
 ## AngularJS
 * [Angular Modules](http://ngmodules.org/)
 
