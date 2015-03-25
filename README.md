@@ -202,6 +202,8 @@ mc.on("swipeRight", function(ev) {
 
 * [jSignature  Draw signature in the browser](http://willowsystems.github.io/jSignature/#/about/)
 
+* [naturalSort.js: This will properly sort padded numbers, numbers preceding text, dates, floats, etc.](https://github.com/overset/javascript-natural-sort)
+
 ## jQuery plugins
 * [jQuery UI Touch Punch: Touch Event Support for jQuery UI](http://touchpunch.furf.com/)
 
@@ -230,6 +232,8 @@ $('div').velocity('callout.twirl');
 * [SlickGrid is an advanced JavaScript grid/spreadsheet component](https://github.com/mleibman/SlickGrid)
 
 * [JustGage is a handy JavaScript plugin for generating and animating nice & clean gauges](http://justgage.com/)
+
+* [Slick Carousel: the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
 
 ## AngularJS
 * [Angular Modules](http://ngmodules.org/)
