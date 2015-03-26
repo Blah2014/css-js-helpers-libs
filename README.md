@@ -204,6 +204,10 @@ mc.on("swipeRight", function(ev) {
 
 * [naturalSort.js: This will properly sort padded numbers, numbers preceding text, dates, floats, etc.](https://github.com/overset/javascript-natural-sort)
 
+* [Browser.js: A Browser detector](https://github.com/ded/bowser)
+
+* [Categorizr.js: A Device detector](https://github.com/Skookum/categorizr.js)
+
 ## jQuery plugins
 * [jQuery UI Touch Punch: Touch Event Support for jQuery UI](http://touchpunch.furf.com/)
 
