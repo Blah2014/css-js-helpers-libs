@@ -78,6 +78,8 @@ $('div').addClass('animated flip')
 
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
+* [FlatIcon: The largest database of free vector icons](http://www.flaticon.com/)
+
 * [Page Transitions](https://github.com/codrops/PageTransitions)
 
 * [WEBFONT GENERATOR: fontsquirrel.com](http://www.fontsquirrel.com/tools/webfont-generator)
