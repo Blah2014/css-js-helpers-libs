@@ -241,6 +241,10 @@ $('div').velocity('callout.twirl');
 
 * [Slick Carousel: the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
 
+* [Opentip: is a javascript tooltip framework](https://github.com/enyo/opentip)
+
+* [Toolbar.Js: Toolbar allows you to quickly create tooltip style toolbars](https://github.com/paulkinzett/toolbar)
+
 ## AngularJS
 * [Angular Modules](http://ngmodules.org/)
 
