@@ -253,3 +253,5 @@ $('div').velocity('callout.twirl');
 * [ngCordova: Set of AngularJS extensions on top of the Cordova API](http://ngcordova.com/)
 
 * [ui-calendar directive: A complete AngularJS directive for the Arshaw FullCalendar](https://github.com/angular-ui/ui-calendar)
+
+* [sticky-headers: An AngularJS directive for making headers that won't scroll past the top of the screen](https://github.com/FutureStateMobile/sticky-header)
