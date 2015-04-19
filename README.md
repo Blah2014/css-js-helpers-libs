@@ -245,6 +245,8 @@ $('div').velocity('callout.twirl');
 
 * [Toolbar.Js: Toolbar allows you to quickly create tooltip style toolbars](https://github.com/paulkinzett/toolbar)
 
+* [Fixed-sticky: A CSS position:sticky polyfill](https://github.com/filamentgroup/fixed-sticky)
+
 ## AngularJS
 * [Angular Modules](http://ngmodules.org/)
 
