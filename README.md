@@ -93,6 +93,8 @@ $('div').addClass('animated flip')
 
 * [Ionic-Cli: The Ionic Framework command line utility](https://github.com/driftyco/ionic-cli)
 
+* [ion-affix: Sticky affix elements for Ionic framework](https://github.com/aliok/ion-affix)
+
 * [Foundation: The most advanced responsive front-end framework in the world](http://foundation.zurb.com/)
 
 * [Phaser.io: Game framework for making desktop and mobile browser HTML5 games](http://phaser.io/)
