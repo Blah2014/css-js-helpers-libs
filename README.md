@@ -27,7 +27,7 @@ http://placehold.it/136x136/09f/fff.png&text=136x136
 <!--[if IE 7]><html xmlns="http://www.w3.org/1999/xhtml" class="ie ie7"><![endif]-->
 <!--[if IE 8]><html xmlns="http://www.w3.org/1999/xhtml" class="ie ie8"><![endif]-->
 <!--[if IE 9]><html xmlns="http://www.w3.org/1999/xhtml" class="ie ie9"><![endif]-->
-<!--[if gt IE 9]><html xmlns="http://www.w3.org/1999/xhtml" class="ie"><![endif]-->
+<!--[if gt IE 9]><!--><html xmlns="http://www.w3.org/1999/xhtml" class="ie"><!--<![endif]-->
 <!--[if !IE]><!--><html xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]-->
 ```
 
