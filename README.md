@@ -257,6 +257,8 @@ $('div').velocity('callout.twirl');
 ## AngularJS
 * [Angular Modules](http://ngmodules.org/)
 
+* [AngularUI Router: he de-facto solution to flexible routing with nested views](https://github.com/angular-ui/ui-router)
+
 * [ngCordova: Set of AngularJS extensions on top of the Cordova API](http://ngcordova.com/)
 
 * [ui-calendar directive: A complete AngularJS directive for the Arshaw FullCalendar](https://github.com/angular-ui/ui-calendar)
