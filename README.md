@@ -254,6 +254,8 @@ $('div').velocity('callout.twirl');
 
 * [Custom select boxes: Chosen is a jQuery plugin that makes long, unwieldy select boxes much more user-friendly](http://harvesthq.github.io/chosen/)
 
+* [Quicksand: Reorder and filter items with a nice shuffling animation](https://github.com/razorjack/quicksand/)
+
 ## AngularJS
 * [Angular Modules](http://ngmodules.org/)
 
