@@ -20,6 +20,8 @@ http://placehold.it/136x136/09f/fff.png&text=136x136
 
 * [Online bitmap font generator](http://kvazars.com/littera/)
 
+* [Tournament Bracket Generator](https://gist.github.com/sterlingwes/4199115)
+
 ##### CSS
 
 * IE css trick
