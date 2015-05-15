@@ -36,7 +36,7 @@ Note: Internet Explorer 10 No Longer Support Conditional Comments
 
 * [Pure CSS Parallax Websites](http://keithclark.co.uk/articles/pure-css-parallax-websites/)
 
-* [Simple Styles for <hr>'s](https://css-tricks.com/examples/hrs/)
+* [Simple Styles for &lt;hr&gt;'s](https://css-tricks.com/examples/hrs/)
 
 ##### PHP
 
