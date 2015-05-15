@@ -38,6 +38,8 @@ Note: Internet Explorer 10 No Longer Support Conditional Comments
 
 * [Simple Styles for &lt;hr&gt;'s](https://css-tricks.com/examples/hrs/)
 
+* [Convert image to base64](http://www.base64-image.de/)
+
 ##### PHP
 
 * [PHP Simple HTML DOM Parser](http://simplehtmldom.sourceforge.net/)
