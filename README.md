@@ -40,6 +40,8 @@ Note: Internet Explorer 10 No Longer Support Conditional Comments
 
 * [Convert image to base64](http://www.base64-image.de/)
 
+* [Load Awesome: An awesome collection of Loaders and Spinners](https://github.com/danielcardoso/Load-Awesome)
+
 ##### PHP
 
 * [PHP Simple HTML DOM Parser](http://simplehtmldom.sourceforge.net/)
