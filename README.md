@@ -264,6 +264,8 @@ $('div').velocity('callout.twirl');
 
 * [Quicksand: Reorder and filter items with a nice shuffling animation](https://github.com/razorjack/quicksand/)
 
+* [Lazy Load Plugin for jQuery](https://github.com/tuupola/jquery_lazyload)
+
 ## AngularJS
 * [Angular Modules](http://ngmodules.org/)
 
