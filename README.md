@@ -266,6 +266,8 @@ $('div').velocity('callout.twirl');
 
 * [Lazy Load Plugin for jQuery](https://github.com/tuupola/jquery_lazyload)
 
+* [Lazy Load XT jQuery plugin: Lazy load XT is a jQuery plugin for images, videos and other media](https://github.com/ressio/lazy-load-xt/)
+
 ## AngularJS
 * [Angular Modules](http://ngmodules.org/)
 
