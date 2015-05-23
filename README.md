@@ -93,6 +93,8 @@ $('div').addClass('animated flip')
 
 * [WEBFONT GENERATOR: fontsquirrel.com](http://www.fontsquirrel.com/tools/webfont-generator)
 
+* [SlickMap CSS](https://github.com/rizkysyazuli/SlickMap-CSS)
+
 ## Javascript
 * [Ionic Framework: The beautiful, open source front-end SDK for developing hybrid mobile apps with HTML5](http://ionicframework.com/)
 
