@@ -284,3 +284,5 @@ $('div').velocity('callout.twirl');
 * [sticky-headers: An AngularJS directive for making headers that won't scroll past the top of the screen](https://github.com/FutureStateMobile/sticky-header)
 
 * [angular-chosen](https://github.com/localytics/angular-chosen)
+
+* [angular-socket-io: Socket.IO component for AngularJS](https://github.com/btford/angular-socket-io)
