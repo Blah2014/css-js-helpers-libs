@@ -56,6 +56,8 @@ Note: Internet Explorer 10 No Longer Support Conditional Comments
 
 * [CodeIgniter: Ion Auth Lightweight Auth System](https://github.com/benedmunds/CodeIgniter-Ion-Auth)
 
+* [Elephant.io: provides a socket.io client fully written in PHP](https://github.com/Wisembly/elephant.io)
+
 ##### PhoneGap/Cordova
 * [PayPal SDK Cordova/Phonegap Plugin](https://github.com/paypal/PayPal-Cordova-Plugin)
 
