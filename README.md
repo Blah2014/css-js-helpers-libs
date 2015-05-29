@@ -12,6 +12,8 @@ List of css, js libs and frameworks
 
 * [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/)
 
+* [A Snowball Fight written with HTML5/WebSockets](https://github.com/hikirsch/NodeGame-SnowballFight)
+
 * [APE (Ajax Push Engine)](http://ape-project.org/)
 
 * [7 Habits of Highly Effective Media Queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/)
