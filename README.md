@@ -8,6 +8,8 @@ css-js-helpers-libs
 List of css, js libs and frameworks
 
 ## Extras
+* [Fast-Paced Multiplayer: A series of articles explaining the architecture of a fast-paced client-server multiplayer game](http://www.gabrielgambetta.com/fpm1.html)
+
 * [APE (Ajax Push Engine)](http://ape-project.org/)
 
 * [7 Habits of Highly Effective Media Queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/)
