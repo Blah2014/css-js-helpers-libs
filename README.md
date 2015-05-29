@@ -10,6 +10,8 @@ List of css, js libs and frameworks
 ## Extras
 * [Fast-Paced Multiplayer: A series of articles explaining the architecture of a fast-paced client-server multiplayer game](http://www.gabrielgambetta.com/fpm1.html)
 
+* [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/)
+
 * [APE (Ajax Push Engine)](http://ape-project.org/)
 
 * [7 Habits of Highly Effective Media Queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/)
