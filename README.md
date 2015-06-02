@@ -280,6 +280,8 @@ $('div').velocity('callout.twirl');
 
 * [Lazy Load XT jQuery plugin: Lazy load XT is a jQuery plugin for images, videos and other media](https://github.com/ressio/lazy-load-xt/)
 
+* [DropdownCheckList: Dropdown checklist jQuery widget](http://sourceforge.net/projects/dropdownchecklist/)
+
 ## AngularJS
 * [Angular Modules](http://ngmodules.org/)
 
