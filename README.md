@@ -12,7 +12,7 @@ List of css, js libs and frameworks
 
 * [2) Virtual Controls Overlay: Joystick and Button](https://supportforums.blackberry.com/t5/tkb/articleprintpage/tkb-id/browser_dev@tkb/article-id/142)
 
-* [Freewill.js: There are six (6) controls in total](https://github.com/oros/Freewill.js/blob/master/Freewill.js)
+* [Freewill.js (Web Only): There are six (6) controls in total](https://github.com/oros/Freewill.js/blob/master/Freewill.js)
 
 ## Extras
 * [Fast-Paced Multiplayer: A series of articles explaining the architecture of a fast-paced client-server multiplayer game](http://www.gabrielgambetta.com/fpm1.html)
