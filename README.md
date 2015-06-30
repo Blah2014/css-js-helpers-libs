@@ -15,6 +15,8 @@ List of css, js libs and frameworks
 * [Freewill.js (Web Only): There are six (6) controls in total](https://github.com/oros/Freewill.js/blob/master/Freewill.js)
 
 ## Extras
+* [TinyMCE: WYSIWYG editor](http://www.tinymce.com/)
+
 * [Fast-Paced Multiplayer: A series of articles explaining the architecture of a fast-paced client-server multiplayer game](http://www.gabrielgambetta.com/fpm1.html)
 
 * [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/)
