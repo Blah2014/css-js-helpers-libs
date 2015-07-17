@@ -291,6 +291,8 @@ $('div').velocity('callout.twirl');
 
 * [DropdownCheckList: Dropdown checklist jQuery widget](http://sourceforge.net/projects/dropdownchecklist/)
 
+* [Smart App Banner](https://github.com/kudago/smart-app-banner)
+
 ## AngularJS
 * [Angular Modules](http://ngmodules.org/)
 
