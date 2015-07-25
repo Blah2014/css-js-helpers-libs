@@ -71,6 +71,8 @@ Note: Internet Explorer 10 No Longer Support Conditional Comments
 
 * [CodeIgniter: Ion Auth Lightweight Auth System](https://github.com/benedmunds/CodeIgniter-Ion-Auth)
 
+* [CodeIgniter Rest Server](https://github.com/chriskacerguis/codeigniter-restserver)
+
 * [Elephant.io: provides a socket.io client fully written in PHP](https://github.com/Wisembly/elephant.io)
 
 ##### PhoneGap/Cordova
