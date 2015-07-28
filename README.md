@@ -7,6 +7,12 @@ css-js-helpers-libs
 
 List of css, js libs and frameworks
 
+## MAC
+* AMPPS (if port 80 is busy)
+```java
+$ sudo apachectl stop
+```
+
 ## Cocos2d-JS
 * [1) Virtual Controls Overlay: Joystick and Button](https://supportforums.blackberry.com/t5/tkb/articleprintpage/tkb-id/browser_dev@tkb/article-id/142)
 
