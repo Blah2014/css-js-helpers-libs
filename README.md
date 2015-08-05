@@ -220,6 +220,8 @@ mc.on("swipeRight", function(ev) {
 
 * [Moment.js Timezone: Parse and display dates in any timezone](http://momentjs.com/timezone/)
 
+* [Accounting.js: Simple and advanced number, money and currency formatting](https://github.com/openexchangerates/accounting.js)
+
 * [XDate: A Modern JavaScript Date Library](http://arshaw.com/xdate/)
 
 * [Fullcalendar.io: A JavaScript event calendar. Customizable and open source](http://fullcalendar.io/)
