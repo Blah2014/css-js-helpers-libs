@@ -67,6 +67,8 @@ Note: Internet Explorer 10 No Longer Support Conditional Comments
 
 * [PHP Simple HTML DOM Parser](http://simplehtmldom.sourceforge.net/)
 
+* [HTTPFUL: focus on interacting with APIs instead of sifting through curl set_opt pages and is an ideal PHP REST client](https://github.com/nategood/httpful)
+
 * [Slim: PHP micro framework that helps you quickly write simple yet powerful web applications and APIs](http://www.slimframework.com/)
 
 * [PHP client for Yahoo Finance API](https://github.com/scheb/yahoo-finance-api)
