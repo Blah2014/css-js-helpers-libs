@@ -254,6 +254,8 @@ mc.on("swipeRight", function(ev) {
 
 * [Chart.js: Simple HTML5 Charts](https://github.com/nnnick/Chart.js)
 
+* [Chart.js: Legend plugin](https://github.com/bebraw/Chart.js.legend)
+
 ## jQuery plugins
 * [jQuery UI Touch Punch: Touch Event Support for jQuery UI](http://touchpunch.furf.com/)
 
