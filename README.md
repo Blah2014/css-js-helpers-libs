@@ -14,6 +14,14 @@ $ sudo apachectl stop
 ```
 
 ## Cocos2d-JS
+* [Cocos2d-JS: Online API Documentation](http://www.cocos2d-x.org/reference/html5-js/V3.7/index.html)
+
+* [Cocos2d-JS: Online Reference Documentation](http://www.cocos2d-x.org/reference/native-cpp/V3.6/index.html)
+
+* [Cocos2d-JS: GitHub](https://github.com/cocos2d/cocos2d-js)
+
+* [Cocos2d-JS: TUTORIALS](http://cocos2d-x.org/docs/tutorial/framework/html5/en)
+
 * [1) Virtual Controls Overlay: Joystick and Button](https://supportforums.blackberry.com/t5/tkb/articleprintpage/tkb-id/browser_dev@tkb/article-id/142)
 
 * [2) GitHub: Virtual Controls Overlay: Joystick and Button](https://github.com/oros/ControlsOverlay.js)
