@@ -13,7 +13,7 @@ List of css, js libs and frameworks
 $ sudo apachectl stop
 ```
 
-## CSS, JavaScript and PHP code documentation
+## CSS, JavaScript and PHP code documentation Gen.
 * [JSDOC: An API documentation generator for JavaScript](https://github.com/jsdoc3/jsdoc)
 
 * [JSDOC - Minami: A clean, responsive documentation template theme for JSDoc 3](https://github.com/Nijikokun/minami)
