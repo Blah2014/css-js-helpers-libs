@@ -13,6 +13,17 @@ List of css, js libs and frameworks
 $ sudo apachectl stop
 ```
 
+## CSS, JavaScript and PHP code documentation
+* [JSDOC: An API documentation generator for JavaScript](https://github.com/jsdoc3/jsdoc)
+
+* [JSDOC - Minami: A clean, responsive documentation template theme for JSDoc 3](https://github.com/Nijikokun/minami)
+
+* [Hologram: CSS beautiful style guide generator](https://github.com/trulia/hologram)
+
+* [Hologram - Cortana : a sexy Hologram theme](https://github.com/Yago/Cortana)
+
+* [Hologram - Hologram Github Theme](https://github.com/wearecube/hologram-github-theme)
+
 ## Cocos2d-JS
 * [Cocos2d-JS: Online API Documentation](http://www.cocos2d-x.org/reference/html5-js/V3.7/index.html)
 
