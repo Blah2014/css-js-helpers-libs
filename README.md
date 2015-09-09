@@ -13,6 +13,23 @@ List of css, js libs and frameworks
 $ sudo apachectl stop
 ```
 
+## Install RubyGem on Windows to use Hologram
+```html
+Go to: http://rubyinstaller.org/downloads/
+Install latest Ruby
+Note: When installing Ruby make sure to check add PATH
+Download latest DevKit
+Create folder under C: C:\RubyDevKit and extract DivKit into
+run: cd C:\RubyDevKit
+run: ruby dk.rb init
+Note: this will create config.yml
+Open config.yml
+Uncomment line:11 and modify to - C:/Ruby22-x64
+run: ruby dk.rb install
+
+Now you can use Hologram to generate styleguid for your CSS and JavaScript
+```
+
 ## CSS, JavaScript and PHP code documentation Gen.
 * [JSDOC: An API documentation generator for JavaScript](https://github.com/jsdoc3/jsdoc)
 
