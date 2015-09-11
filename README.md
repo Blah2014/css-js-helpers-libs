@@ -27,7 +27,7 @@ Open config.yml
 Uncomment line:11 and modify to - C:/Ruby22-x64
 run: ruby dk.rb install
 
-Now you can use Hologram to generate styleguid for your CSS and JavaScript
+Now you can use Hologram to generate styleguide for your CSS and JavaScript
 ```
 
 ## CSS, JavaScript and PHP code documentation Gen.
