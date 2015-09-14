@@ -57,6 +57,8 @@ Now you can use Hologram to generate styleguide for your CSS and JavaScript
 * [Freewill.js (Web Only): There are six (6) controls in total](https://github.com/oros/Freewill.js/blob/master/Freewill.js)
 
 ## Extras
+* [The definitive front-end performance guide](http://browserdiet.com/en/)
+
 * [TinyMCE: WYSIWYG editor](http://www.tinymce.com/)
 
 * [Fast-Paced Multiplayer: A series of articles explaining the architecture of a fast-paced client-server multiplayer game](http://www.gabrielgambetta.com/fpm1.html)
