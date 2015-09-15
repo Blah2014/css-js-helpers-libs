@@ -163,6 +163,8 @@ $('div').addClass('animated flip')
 * [SlickMap CSS](https://github.com/rizkysyazuli/SlickMap-CSS)
 
 ## Javascript
+* [Headroom.js: Hide your header until you need it](https://github.com/WickyNilliams/headroom.js)
+
 * [Ionic Framework: The beautiful, open source front-end SDK for developing hybrid mobile apps with HTML5](http://ionicframework.com/)
 
 * [Ionic Examples](http://codepen.io/ionic/)
