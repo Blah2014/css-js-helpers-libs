@@ -57,8 +57,6 @@ Now you can use Hologram to generate styleguide for your CSS and JavaScript
 * [Freewill.js (Web Only): There are six (6) controls in total](https://github.com/oros/Freewill.js/blob/master/Freewill.js)
 
 ## Extras
-* [HeadJS: Async files loader](http://headjs.com/)
-
 * [The definitive front-end performance guide](http://browserdiet.com/en/)
 
 * [TinyMCE: WYSIWYG editor](http://www.tinymce.com/)
@@ -163,6 +161,8 @@ $('div').addClass('animated flip')
 * [SlickMap CSS](https://github.com/rizkysyazuli/SlickMap-CSS)
 
 ## Javascript
+* [HeadJS: Async files loader](http://headjs.com/)
+
 * [Headroom.js: Hide your header until you need it](https://github.com/WickyNilliams/headroom.js)
 
 * [Ionic Framework: The beautiful, open source front-end SDK for developing hybrid mobile apps with HTML5](http://ionicframework.com/)
