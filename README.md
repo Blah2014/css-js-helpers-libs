@@ -300,6 +300,8 @@ mc.on("swipeRight", function(ev) {
 
 * [Chart.js: Legend plugin](https://github.com/bebraw/Chart.js.legend)
 
+* [Fabric.js: is a powerful and simple Javascript HTML5 canvas library](http://fabricjs.com/)
+
 ## jQuery plugins
 * [jQuery UI Touch Punch: Touch Event Support for jQuery UI](http://touchpunch.furf.com/)
 
