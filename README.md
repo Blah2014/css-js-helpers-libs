@@ -101,6 +101,8 @@ Note: Internet Explorer 10 No Longer Support Conditional Comments
 
 * [Load Awesome: An awesome collection of Loaders and Spinners](https://github.com/danielcardoso/Load-Awesome)
 
+* [Hover.css: A collection of CSS3 powered hover effects](http://ianlunn.github.io/Hover/)
+
 ##### PHP
 
 * [PHP Simple HTML DOM Parser](http://simplehtmldom.sourceforge.net/)
