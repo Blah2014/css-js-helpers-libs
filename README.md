@@ -81,6 +81,12 @@ http://placehold.it/136x136/09f/fff.png&text=136x136
 
 * [Tournament Bracket Generator](https://gist.github.com/sterlingwes/4199115)
 
+* [jQuery Bracket library](http://www.aropupu.fi/bracket/)
+
+* [JQUERY.GRACKET.JS: A JQuery/Canvas approach to creating single elimination tournament brackets](http://erik5388.github.io/jquery.gracket.js/)
+
+* [jTournament: Makes jQuery make tournament trees using canvas](https://github.com/nicwest/jTournament)
+
 ##### CSS
 
 * IE css trick
