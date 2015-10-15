@@ -197,6 +197,8 @@ $('div').addClass('animated flip')
 
 * [Parallaxify: add depth to your project](https://github.com/hwthorn/parallaxify)
 
+* [ScrollMagic: helps you to easily react to the user's current scroll position](https://github.com/janpaepke/ScrollMagic/)
+
 * [Leaflet: An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps](http://leafletjs.com/)
 
 * [Hammer.js: Add touch gestures to your page](http://hammerjs.github.io/)
