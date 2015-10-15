@@ -195,6 +195,8 @@ $('div').addClass('animated flip')
 
 * [Parallax.js: reacts to the orientation of your smart device](http://matthew.wagerfield.com/parallax/)
 
+* [Parallaxify: add depth to your project](https://github.com/hwthorn/parallaxify)
+
 * [Leaflet: An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps](http://leafletjs.com/)
 
 * [Hammer.js: Add touch gestures to your page](http://hammerjs.github.io/)
