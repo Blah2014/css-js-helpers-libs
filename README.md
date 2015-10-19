@@ -90,7 +90,6 @@ http://placehold.it/136x136/09f/fff.png&text=136x136
 * [jQuery Mouse Wheel Plugin](https://github.com/jquery/jquery-mousewheel)
 ```java
 // jQuery Smooth Mouse Wheel Scrolling
-
 var page = $('body'),
     scrollRange = 60,
     scrollSpeed = 200;
