@@ -126,6 +126,8 @@ Note: Internet Explorer 10 No Longer Support Conditional Comments
 
 * [Hover.css: A collection of CSS3 powered hover effects](http://ianlunn.github.io/Hover/)
 
+* [Apple TV Parallax](https://github.com/balajmarius/Apple-TV-Parallax)
+
 ##### PHP
 
 * [PHP Simple HTML DOM Parser](http://simplehtmldom.sourceforge.net/)
