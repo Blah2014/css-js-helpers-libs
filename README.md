@@ -87,6 +87,24 @@ http://placehold.it/136x136/09f/fff.png&text=136x136
 
 * [jTournament: Makes jQuery make tournament trees using canvas](https://github.com/nicwest/jTournament)
 
+* [jQuery Mouse Wheel Plugin](https://github.com/jquery/jquery-mousewheel)
+```java
+// jQuery Smooth Mouse Wheel Scrolling
+
+var page = $('body'),
+    scrollRange = 60,
+    scrollSpeed = 200;
+
+$(window).mousewheel(function(event, delta, deltaX, deltaY) {
+    if (delta < 0) {
+        page.stop(true,true).animate({scrollTop: page.scrollTop()+scrollRange}, scrollSpeed);
+    } else if (delta > 0) {
+        page.stop(true,true).animate({scrollTop: page.scrollTop()-scrollRange}, scrollSpeed);
+    }
+    return false;
+});
+```
+
 ##### CSS
 
 * IE css trick
