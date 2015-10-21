@@ -370,6 +370,8 @@ $('div').velocity('callout.twirl');
 
 * [fixto: A jQuery plugin for sticky positioning](https://github.com/bbarakaci/fixto)
 
+* [Sticky-Kit: A jQuery plugin for making smart sticky elements](https://github.com/leafo/sticky-kit)
+
 * [Custom select boxes: Chosen is a jQuery plugin that makes long, unwieldy select boxes much more user-friendly](http://harvesthq.github.io/chosen/)
 
 * [Quicksand: Reorder and filter items with a nice shuffling animation](https://github.com/razorjack/quicksand/)
