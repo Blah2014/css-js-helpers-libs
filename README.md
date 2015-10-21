@@ -305,6 +305,8 @@ mc.on("swipeRight", function(ev) {
 
 * [PhotoSwipe: IMAGE GALLERY FOR MOBILE AND TOUCH DEVICES](http://photoswipe.com/)
 
+* [Swiper: is the free and most modern mobile touch slider with hardware accelerated transitions and amazing native behavior](https://github.com/nolimits4web/Swiper)
+
 * [Chartist.js: SIMPLE RESPONSIVE CHARTS](http://gionkunz.github.io/chartist-js/)
 
 * [Flot: Attractive JavaScript plotting for jQuery](http://www.flotcharts.org/)
