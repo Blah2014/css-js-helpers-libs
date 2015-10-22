@@ -128,6 +128,10 @@ Note: Internet Explorer 10 No Longer Support Conditional Comments
 
 * [Apple TV Parallax](https://github.com/balajmarius/Apple-TV-Parallax)
 
+* [Bootstrap.css](http://getbootstrap.com/css/)
+
+* [Bootstrap-select: Bootstrap using button dropdown](https://silviomoreto.github.io/bootstrap-select/)
+
 ##### PHP
 
 * [PHP Simple HTML DOM Parser](http://simplehtmldom.sourceforge.net/)
