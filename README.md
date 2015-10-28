@@ -301,6 +301,12 @@ mc.on("swipeRight", function(ev) {
 
 * [Accounting.js: Simple and advanced number, money and currency formatting](https://github.com/openexchangerates/accounting.js)
 
+```javascript
+// Add a thousands separator
+// Example: 1000 will be 1,000
+number.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,')
+```
+
 * [XDate: A Modern JavaScript Date Library](http://arshaw.com/xdate/)
 
 * [Fullcalendar.io: A JavaScript event calendar. Customizable and open source](http://fullcalendar.io/)
