@@ -60,6 +60,8 @@ Now you can use Hologram to generate styleguide for your CSS and JavaScript
 
 * [SonarLearning](http://www.sonarlearning.co.uk/topicpage.php?topic=game)
 
+* [CocosLearning](http://cocos.sonarlearning.co.uk/docs)
+
 ## Extras
 * [The definitive front-end performance guide](http://browserdiet.com/en/)
 
