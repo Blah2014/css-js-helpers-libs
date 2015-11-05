@@ -62,6 +62,8 @@ Now you can use Hologram to generate styleguide for your CSS and JavaScript
 
 * [CocosLearning](http://cocos.sonarlearning.co.uk/docs)
 
+* [Cocos Studio: tutorials](https://github.com/chukong/cocos-docs/tree/master/tutorial/studio)
+
 ## Extras
 * [The definitive front-end performance guide](http://browserdiet.com/en/)
 
