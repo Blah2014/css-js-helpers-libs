@@ -58,6 +58,8 @@ Now you can use Hologram to generate styleguide for your CSS and JavaScript
 
 * [AppWarp: Multiplayer games solution](http://appwarp.shephertz.com/)
 
+* [SonarLearning](http://www.sonarlearning.co.uk/topicpage.php?topic=game)
+
 ## Extras
 * [The definitive front-end performance guide](http://browserdiet.com/en/)
 
