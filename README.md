@@ -71,6 +71,7 @@ Now you can use Hologram to generate styleguide for your CSS and JavaScript
 * [(GitHub)SIGHT & LIGHT: how to create 2D visibility/shadow effects for your game](https://github.com/ncase/sight-and-light)
 * [2d Visibility: Ray casting](http://www.redblobgames.com/articles/visibility/)
 * [js-intersections: A JS utility class used to find intersections between any combination of lines, circles, ellipses, polylines, polygons, rectangles, quadratic beziers, and cubic beziers](https://github.com/thelonious/js-intersections)
+* [js-intersections: Docs](http://www.kevlindev.com/gui/math/intersection/)
 * [kld-intersections](A library of intersection algorithms covering all SVG shape types)
 
 ## Extras
