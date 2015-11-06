@@ -64,6 +64,13 @@ Now you can use Hologram to generate styleguide for your CSS and JavaScript
 
 * [Cocos Studio: tutorials](https://github.com/chukong/cocos-docs/tree/master/tutorial/studio)
 
+## Game Resources
+* [Game Mechanic Explorer](http://gamemechanicexplorer.com/)
+* [visibility-polygon-js: This library can be used to construct a visibility polygon for a set of line segments](https://github.com/byronknoll/visibility-polygon-js)
+* [(WEB)SIGHT & LIGHT: how to create 2D visibility/shadow effects for your game](http://ncase.me/sight-and-light/)
+* [(GitHub)SIGHT & LIGHT: how to create 2D visibility/shadow effects for your game](https://github.com/ncase/sight-and-light)
+* [2d Visibility: Ray casting](http://www.redblobgames.com/articles/visibility/)
+
 ## Extras
 * [The definitive front-end performance guide](http://browserdiet.com/en/)
 
