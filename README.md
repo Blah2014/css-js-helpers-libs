@@ -50,6 +50,9 @@ Now you can use Hologram to generate styleguide for your CSS and JavaScript
 
 * [Cocos2d-JS: TUTORIALS](http://cocos2d-x.org/docs/tutorial/framework/html5/en)
 
+## Desktop apps with web technologies
+* [ELECTRON: Build cross platform desktop apps with web technologies](http://electron.atom.io/)
+
 * [1) Virtual Controls Overlay: Joystick and Button](https://supportforums.blackberry.com/t5/tkb/articleprintpage/tkb-id/browser_dev@tkb/article-id/142)
 
 * [2) GitHub: Virtual Controls Overlay: Joystick and Button](https://github.com/oros/ControlsOverlay.js)
