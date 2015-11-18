@@ -64,6 +64,10 @@ Now you can use Hologram to generate styleguide for your CSS and JavaScript
 
 * [Cocos Studio: tutorials](https://github.com/chukong/cocos-docs/tree/master/tutorial/studio)
 
+* [EasyStar.js: asynchronous pathfinding in javascript](https://github.com/prettymuchbryce/easystarjs)
+
+* [PathFinding.js: A comprehensive path-finding library in javascript](https://github.com/qiao/PathFinding.js)
+
 ## Desktop apps with web technologies
 * [ELECTRON: Build cross platform desktop apps with web technologies](http://electron.atom.io/)
 
