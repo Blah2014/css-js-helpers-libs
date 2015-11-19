@@ -71,6 +71,11 @@ Now you can use Hologram to generate styleguide for your CSS and JavaScript
 ## Desktop apps with web technologies
 * [ELECTRON: Build cross platform desktop apps with web technologies](http://electron.atom.io/)
 
+## JS: Fast image filters
+* [WebGLImageFilter: ](Fast image filters for Browsers with WebGL support)
+
+* [jsfeat: The project aim is to explore JS/HTML5 possibilities using modern & state-of-art computer vision algorithms](https://github.com/inspirit/jsfeat)
+
 ## Game Resources
 * [Game Mechanic Explorer](http://gamemechanicexplorer.com/)
 * [visibility-polygon-js: This library can be used to construct a visibility polygon for a set of line segments](https://github.com/byronknoll/visibility-polygon-js)
