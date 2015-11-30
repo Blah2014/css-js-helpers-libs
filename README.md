@@ -440,3 +440,5 @@ $('div').velocity('callout.twirl');
 * [angular-chosen](https://github.com/localytics/angular-chosen)
 
 * [angular-socket-io: Socket.IO component for AngularJS](https://github.com/btford/angular-socket-io)
+
+* [reCaptcha](https://github.com/VividCortex/angular-recaptcha)
