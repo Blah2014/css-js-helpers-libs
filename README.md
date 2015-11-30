@@ -442,3 +442,5 @@ $('div').velocity('callout.twirl');
 * [angular-socket-io: Socket.IO component for AngularJS](https://github.com/btford/angular-socket-io)
 
 * [reCaptcha](https://github.com/VividCortex/angular-recaptcha)
+
+* [Satellizer: built-in support for Google, Facebook, LinkedIn, Twitter, Instagram, GitHub, Bitbucket, Yahoo, Twitch, Microsoft (Windows Live) OAuth providers](https://github.com/sahat/satellizer)
