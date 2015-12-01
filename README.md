@@ -182,6 +182,10 @@ Note: Internet Explorer 10 No Longer Support Conditional Comments
 
 * [Elephant.io: provides a socket.io client fully written in PHP](https://github.com/Wisembly/elephant.io)
 
+##### PHP OAuth 2.0 Client - Provider Client Libraries
+* [OAuth 2.0 Client list](https://github.com/thephpleague/oauth2-client/blob/master/README.PROVIDERS.md)
+* [Google Provider for OAuth 2.0 Client](https://github.com/thephpleague/oauth2-google)
+
 ##### PhoneGap/Cordova
 * [PayPal SDK Cordova/Phonegap Plugin](https://github.com/paypal/PayPal-Cordova-Plugin)
 
