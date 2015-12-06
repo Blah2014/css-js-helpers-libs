@@ -162,6 +162,13 @@ Note: Internet Explorer 10 No Longer Support Conditional Comments
 
 * [Bootstrap-select: Bootstrap using button dropdown](https://silviomoreto.github.io/bootstrap-select/)
 
+##### Yahoo Finance API
+```javascript
+// Get
+http://chartapi.finance.yahoo.com/instrument/1.0/aapl/chartdata;type=quote;range=1d/json
+// You can use: json, csv or xml
+```
+
 ##### PHP
 
 * [PHP Simple HTML DOM Parser](http://simplehtmldom.sourceforge.net/)
