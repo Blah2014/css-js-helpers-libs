@@ -437,6 +437,8 @@ $('div').velocity('callout.twirl');
 
 * [Smart App Banner](https://github.com/kudago/smart-app-banner)
 
+* [tableExport.jquery.plugin: JSON, XML, PNG, CSV, TXT, SQL, MS-Word, Ms-Excel, Ms-Powerpoint, PDF](https://github.com/kayalshri/tableExport.jquery.plugin)
+
 ## AngularJS
 * [Angular Modules](http://ngmodules.org/)
 
@@ -455,3 +457,5 @@ $('div').velocity('callout.twirl');
 * [reCaptcha](https://github.com/VividCortex/angular-recaptcha)
 
 * [Satellizer: built-in support for Google, Facebook, LinkedIn, Twitter, Instagram, GitHub, Bitbucket, Yahoo, Twitch, Microsoft (Windows Live) OAuth providers](https://github.com/sahat/satellizer)
+
+* [angular-export-table: : JSON, XML, PNG, CSV, TXT, SQL, MS-Word, Ms-Excel, Ms-Powerpoint, PDF](https://github.com/Epotignano/angular-export-table)
