@@ -384,6 +384,8 @@ number.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,')
 
 * [Fabric.js: is a powerful and simple Javascript HTML5 canvas library](http://fabricjs.com/)
 
+* [amCharts is an advanced charting library](https://www.amcharts.com/)
+
 ## jQuery plugins
 * [jQuery UI Touch Punch: Touch Event Support for jQuery UI](http://touchpunch.furf.com/)
 
