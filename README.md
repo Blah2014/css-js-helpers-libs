@@ -87,6 +87,8 @@ Now you can use Hologram to generate styleguide for your CSS and JavaScript
 * [kld-intersections](A library of intersection algorithms covering all SVG shape types)
 
 ## Extras
+* [Compressor.io: is a powerful online tool for reducing drastically the size of your images ](https://compressor.io/)
+
 * [The definitive front-end performance guide](http://browserdiet.com/en/)
 
 * [TinyMCE: WYSIWYG editor](http://www.tinymce.com/)
