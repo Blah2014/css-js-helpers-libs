@@ -97,6 +97,8 @@ Now you can use Hologram to generate styleguide for your CSS and JavaScript
 
 * [TinyMCE: WYSIWYG editor](http://www.tinymce.com/)
 
+* [Substance: A JavaScript library for web-based content editing](https://github.com/substance/substance)
+
 * [Fast-Paced Multiplayer: A series of articles explaining the architecture of a fast-paced client-server multiplayer game](http://www.gabrielgambetta.com/fpm1.html)
 
 * [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/)
