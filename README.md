@@ -394,6 +394,8 @@ number.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,')
 
 * [amCharts is an advanced charting library](https://www.amcharts.com/)
 
+* [C3.js D3-based reusable chart library](https://github.com/c3js/c3)
+
 ## jQuery plugins
 * [jQuery UI Touch Punch: Touch Event Support for jQuery UI](http://touchpunch.furf.com/)
 
